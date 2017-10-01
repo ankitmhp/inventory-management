@@ -1,0 +1,13 @@
+http://localhost:8080/inventory-management-0.0.1-SNAPSHOT/rest/searchitemsservice/getitems
+
+
+--input
+Header
+
+Content-Type - application/json
+Accept - application/json
+
+Body
+{
+  "productName": "test",
+} 

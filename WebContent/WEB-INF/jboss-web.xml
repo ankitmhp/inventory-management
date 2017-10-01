@@ -1,0 +1,3 @@
+<jboss-web>
+ <context-root>inventory-management</context-root>
+</jboss-web>
